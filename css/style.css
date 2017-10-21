@@ -59,7 +59,7 @@ body {
   position: absolute; }
 
 h1 {
-  color: #CBCAD5;
+  color: white;
   font-size: 80px;
   letter-spacing: 20px;
   text-align: center;
@@ -75,7 +75,7 @@ h1 {
     margin: 30px auto; }
 
 p {
-  color: #CBCAD5;
+  color: white;
   font-size: 40px;
   margin-top: 20px;
   letter-spacing: 10px;
