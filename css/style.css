@@ -52,7 +52,11 @@ body {
   justify-content: center;
   align-items: center;
   font-weight: bold;
-  font-family: 'Courgette'; }
+  font-family: 'Courgette';
+  position: relative; }
+
+.main {
+  position: absolute; }
 
 h1 {
   color: white;
